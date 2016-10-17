@@ -12,6 +12,7 @@ namespace acopy
         static void Main(string[] args)
         {
             try {
+                Console.ForegroundColor = ConsoleColor.Gray;
                 if (args.Length != 3) {
                     // TODO: Criar um metodo mais elegante para uma tela de help da aplicação
                     Console.WriteLine("Precisa de Ajuda?");
@@ -76,7 +77,9 @@ namespace acopy
 
 
             } catch (Exception ex) {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Erro: " + ex.Message.ToString());
+                Console.ForegroundColor = ConsoleColor.Gray;
             }
             //Console.ReadKey();
         }
