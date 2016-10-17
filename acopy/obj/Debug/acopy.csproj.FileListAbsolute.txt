@@ -1,0 +1,6 @@
+c:\users\mario\documents\visual studio 2015\Projects\acopy\acopy\bin\Debug\acopy.exe.config
+C:\Users\mario\documents\visual studio 2015\Projects\acopy\acopy\bin\Debug\acopy.exe
+C:\Users\mario\documents\visual studio 2015\Projects\acopy\acopy\bin\Debug\acopy.pdb
+C:\Users\mario\documents\visual studio 2015\Projects\acopy\acopy\obj\Debug\acopy.csprojResolveAssemblyReference.cache
+C:\Users\mario\documents\visual studio 2015\Projects\acopy\acopy\obj\Debug\acopy.exe
+C:\Users\mario\documents\visual studio 2015\Projects\acopy\acopy\obj\Debug\acopy.pdb

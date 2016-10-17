@@ -1,0 +1,5 @@
+C:\Users\mario\documents\visual studio 2015\Projects\acopy\acopy\bin\Release\acopy.exe.config
+C:\Users\mario\documents\visual studio 2015\Projects\acopy\acopy\bin\Release\acopy.exe
+C:\Users\mario\documents\visual studio 2015\Projects\acopy\acopy\bin\Release\acopy.pdb
+C:\Users\mario\documents\visual studio 2015\Projects\acopy\acopy\obj\Release\acopy.exe
+C:\Users\mario\documents\visual studio 2015\Projects\acopy\acopy\obj\Release\acopy.pdb
